@@ -19,13 +19,6 @@ intro: >-
   <h2 class="section__title" id="teaching-profile">Teaching profile</h2>
   <div class="prose">
     <p>
-      My teaching is built around business students who take economics as a
-      requirement rather than a choice. The course I teach asks them to apply economic
-      reasoning — opportunity cost, gains from trade, market structure, externalities,
-      information problems and basic game theory — to problems they have not seen
-      before, rather than to reproduce definitions.
-    </p>
-    <p>
       Across {{ teaching.summary.terms_count }} terms as instructor of record, beginning
       in {{ teaching.summary.first_term }}, I have taught
       {{ teaching.summary.students_phrase }} in {{ teaching.summary.section_size }}.
